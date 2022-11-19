@@ -1,4 +1,5 @@
-# ProyectoInicial
+# Proyecto Inicial
+#  Paradigmas de la Porgramación
 
 Ejercicios iniciales de la materia Paradigmas de la Programacion para la carrera Licenciatura en Informatica 
 en la Universidad Metropolitana para la Educacion y el Trabajo (UMET). La catedra esta dictada por la docente Antonieta Kuz y los ayudantes de catedra
