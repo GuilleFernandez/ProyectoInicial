@@ -4,7 +4,7 @@ Ingresar la cantidad de números de la sucesión de Fibonacci a mostrar.
 
 #Variables
 cant_num=int(0)
-cont = int(3)
+cont = int(0)
 num1= 0
 num2= 1
 num3= 0
